@@ -17,7 +17,7 @@ body{
 /*HEADER*/
 .header::after {
     content:'';
-    height: 82VH;
+    height: 85VH;
     width: 100%;
     background-image: url(images/header_bg.jpg);
     background-size: cover;
